@@ -1,10 +1,8 @@
 # Microsoft Movie Analysis
 
-Rew and Eli
+Rew and Eli 
 
-## Overview
-
-## Business Problem
+## Overview/Business Problem
 Microsoft is opening a movie studio in response to competition's creation of video content. However, they are not well voiced in the realm of movie production so it is our job to analyze data and create suggestion for; potential studios the company could buy, the range of runtimes to stay within to maximize profits, and what genres of films to make to maximize profits . We used a variety of analyses to determine what the most important factors in movie success are. It is important to take into consideration total revenue for each genre, how long a movie is compared to its profits, how much a studio made from the films they produced.(According to our data analysis) We wanted to answer the question of, "What can Microsoft do to produce successful movies?". Through our data analyzation we were able to come up with answers to this question to maximize profits.
 
 - Buy/Partner with a studio
