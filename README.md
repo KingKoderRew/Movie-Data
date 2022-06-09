@@ -7,7 +7,7 @@ Microsoft is opening a movie studio in response to competition's creation of vid
 
 - Buy/Partner with a studio
 - Keep movies length's with a range
-- Make movies that are condisdered  one of the top 3 grossing genres.
+- Make movies that are considered  one of the top 3 grossing genres.
 
 
 ## Data Understanding
