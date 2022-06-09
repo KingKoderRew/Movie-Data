@@ -30,7 +30,7 @@ One of the first questions we posed was “which genres generate the most money?
 <img src="studio.png" alt="studio"/>
 </figure>
 
-The next question we examined was which studios were able to generate the most money. As Microsoft is new to the movie industry, they may have increased success by partnering with one of these companies, or at the very least, using their strategies and business models to succeed. According to our table, the best three Studio’s to work with would be Imag., Scre., Argo., or Relbig. in that order. They could also buy one of the studios that was not making as much as the other companies and use their resources to shape a studio in their image.
+The next question we examined was which studios were able to generate the most money. As Microsoft is new to the movie industry, they may have increased success by partnering with one of these companies, or at the very least, using their strategies and business models to succeed. According to our table, the best three studios to work with would be Image Entertainment, Screen Media, Argot Pictures in that order. They could also buy one of the studios that was not making as much as the other companies and use their resources to shape a studio in their image.
 
 <figure>
 <img src="scatter.png" alt="scatter"/>
