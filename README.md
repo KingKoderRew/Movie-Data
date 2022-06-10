@@ -21,19 +21,19 @@ To prepare our raw data to be useful in our analysis, we had to tke steps to cle
 ## Evaluation
 
  <figure>
-<img src="genre.png" alt="genre"/>
+<img src="Images./genre.png" alt="genre"/>
 </figure>
 
 One of the first questions we posed was “which genres generate the most money?” According to our graph, the top three money makers are Science-Fiction, Animated movies, and Adventure movies. For Microsoft to make the most money, they should look to the top genres. Another thing they could look for is what combinations of genres are most profitable. 
 
 <figure>
-<img src="studio.png" alt="studio"/>
+<img src="Images./studio.png" alt="studio"/>
 </figure>
 
 The next question we examined was which studios were able to generate the most money. As Microsoft is new to the movie industry, they may have increased success by partnering with one of these companies, or at the very least, using their strategies and business models to succeed. According to our table, the best three studios to work with would be Image Entertainment, Screen Media, Argot Pictures in that order. They could also buy one of the studios that was not making as much as the other companies and use their resources to shape a studio in their image.
 
 <figure>
-<img src="scatter.png" alt="scatter"/>
+<img src="Images./scatter.png" alt="scatter"/>
 </figure>
 
 According to our data, we would recommend Microsoft to keep the runtime of their movie between 100 and 150 minutes. These movies have the highest profitability. Past 150 minutes, there is a steep decrease in revenue. Similarly, movies shorter than 90 minutes do not make a lot of money. 
