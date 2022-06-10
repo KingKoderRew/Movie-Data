@@ -38,6 +38,25 @@ The next question we examined was which studios were able to generate the most m
 
 According to our data, we would recommend Microsoft to keep the runtime of their movie between 100 and 150 minutes. These movies have the highest profitability. Past 150 minutes, there is a steep decrease in revenue. Similarly, movies shorter than 90 minutes do not make a lot of money. 
 
+## Navigating the Repository
+```
+│
+├── Images
+│   ├── genre.png                            <- Bar graph describing total revenue of each genre
+│   ├── scatter.png                          <- Scatter plot of the total revenue of each runtime
+│   ├── studio.png                           <- Bar graph describing toatal revenue of each studio
+│
+│
+│
+├── Notebooks                               <- All of the notebooks we worked in 
+│   ├── Eli.ipynb                           <- Eli's notebook
+│   ├── Final_Notebook.ipynb                <- Our final, clean notebook
+│   ├── Rew.ipynb                           <- Rew's notebook
+│
+├── .gitignore                               <- Standard python gitignore file with additional data / MAC specific ignore commands
+├── README.md                                <- Project summary, including instructions for accessing and processing the data
+```
+
 ## Conclusion
 
 Our research sought to answer three key questions. The first question was what genre could produce Microsoft the most money? We found that the top 6 genres Microsoft should look at are “Adventure, Animation, Scifi, Fantasy, Family, and Action.” The next thing we looked at was which studios created the most revenue. The top three companies in this field are Argot Pictures, Screen Media, and Image Entertainment. By acquiring or partnering with one of these companies, Microsoft can have a strong start to their filmmaking chapter. The last thing we examined was how runtime affected the revenue of movies. We found that movies between 100 and 150 minutes had the highest probability of having a high revenue. 
